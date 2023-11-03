@@ -1,0 +1,94 @@
+* {
+    margin-left: 0;
+    font-family: sans-serif;
+}
+.container {
+    width: 825px;
+    height: auto;
+    border: 2px solid black;
+    margin: 100px 450px;
+    position: relative;
+}
+.mainHeader {
+    background-color: rgb(228, 218, 218);
+    text-align: center;
+    padding: 2px;
+}
+.shoesImg {
+    width: 250px;
+    height: 250px;
+}
+.capitalLetters {
+    text-transform: uppercase;
+}
+.freeshippingStyle {
+    color: rgb(155, 150, 150);
+    margin-top: 0px;
+
+}
+.priceFont {
+    font-size: 25px;
+    margin-bottom: 4px;
+}
+.footerButton {
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+    width: 100%;
+    padding: 15px;
+}
+ul {
+    margin-left: -20px;  
+    list-style: square;
+    line-height:35px;
+}
+.footerButton:hover {
+    background-color: white;
+    color: black;
+    border-top: 2px solid black;
+}
+.moreinfoStyle:link {
+    color: black;
+}
+.moreinfoStyle:hover {
+    text-decoration: none;
+}
+.squareShapes {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin: 20px 5px;  
+}
+.shapeOne {
+    background-color: black;
+    margin-left: 0;
+}
+.shapeTwo {
+    background-color: blue;
+}
+.shapeThree {
+    background-color: red;
+}
+.shapeFour {
+    background-color: yellow;
+}
+.shapeFive {
+    background-color: green;
+}
+.shapeSix {
+    background-color: brown;
+}
+.productdetailsStyle {
+    margin-top: 0;
+}
+.saleBoxStyle {
+    background-color: orangered;
+    color: white;
+    padding: 2px 4px;
+    position: absolute;
+    top: -12px;
+    left: -24px;
+}
+
